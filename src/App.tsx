@@ -63,28 +63,28 @@ const legalDocuments = [
     title: "中华人民共和国国家安全法",
     type: "Z",
     year: "2015",
-    link: "http://www.npc.gov.cn/npc/c30834/201507/t20150701_19405.html"
+    link: "https://www.gov.cn/zhengce/2015-07/01/content_2893902.htm"
   },
   {
     author: "全国人民代表大会常务委员会",
     title: "中华人民共和国治安管理处罚法",
     type: "Z",
     year: "2012",
-    link: "http://www.npc.gov.cn/npc/c30834/201210/t20121029_17407.html"
+    link: "https://www.spp.gov.cn/spp/fl/202506/t20250627_699863.shtml"
   },
   {
     author: "全国人民代表大会常务委员会",
     title: "中华人民共和国突发事件应对法",
     type: "Z",
     year: "2007",
-    link: "http://www.npc.gov.cn/npc/c30834/200708/t20070830_13794.html"
+    link: "https://www.gov.cn/yaowen/liebiao/202406/content_6960130.htm"
   },
   {
     author: "全国人民代表大会常务委员会",
     title: "中华人民共和国刑法",
     type: "Z",
     year: "2020",
-    link: "http://www.npc.gov.cn/npc/c30834/201508/t20150829_19441.html"
+    link: "http://gongbao.court.gov.cn/details/f8e30d0689b23f57bfc782d21035c3.html"
   }
 ];
 
